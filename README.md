@@ -1,1 +1,1 @@
-Second year Computer Science student learning Python, especially Data Science.
+Graduated Computer Science student learning Python, especially Data Science.
